@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Default Starter`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
-    author: `@gatsbyjs`,
+    title: `Five Borough Demolition`,
+    description: `A company that takes on demolition and excavation projects everything from, local, contract and city.`,
+    author: `@mohammedchisti`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
